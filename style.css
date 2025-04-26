@@ -167,6 +167,10 @@ section{
     gap: 5rem;
     height: 80vh;
   }
+
+  .first_profile_image{
+    border-radius: 50%;
+  }
   
   .sections__pic-container {
     display: flex;
@@ -203,6 +207,10 @@ section{
     justify-content: center;
     margin-top: 1rem;
     gap: 1rem;
+  }
+
+  .text-container{
+    font-size: 80%;
   }
 
 /*icons*/
@@ -281,6 +289,7 @@ section{
 .about-pic{
     border-radius: 2rem;
 }
+
 
 .arrow {
     position: absolute;
